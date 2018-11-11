@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pikachu
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Pikachu\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=world
+comment1.target=Pikachu(greenfoot.World)
+comment1.text=\r\n\ Pikachu-\ This\ Creature\ constructor\ initializes\ the\ health\ and\ ownership\ of\ Pikachu.\ It\ also\ scales\ the\ Pikachu\ image\r\n\ to\ a\ width\ of\ 150\ and\ a\ height\ of\ 100.\ The\ constructor\ also\ adds\ an\ object\ known\ as\ the\ Charmander's\ health\ bar.\r\n\ \r\n\ @param\ \ World\ parameter\ called\ world\r\n\ @return\ None\ There\ are\ no\ return\ type\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Pikachu\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3
